@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #1a1a2e; 
+    color: #e0e0e0; 
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #2d045c; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.highlight {
+    color: #e94560; 
+}
+a {
+    color: #00a8cc; 
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+img {
+    border-radius: 10px;        
+    margin: 10px 0;
+}
